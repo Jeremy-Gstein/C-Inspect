@@ -1,6 +1,6 @@
 ## Interface: 90005
 ## Title: C-Inspect
-## Notes: A simple addon that will inspect players upon presson control + left mouse click
+## Notes: V1.0 A Simple Addon That Will Inspect Players Upon Pressing Control + Left Mouse Click
 ## Author: Shodo, The HWS Dev team
 ## Version 1.0
 
