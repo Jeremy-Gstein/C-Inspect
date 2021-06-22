@@ -7,6 +7,6 @@ Install Instructions:
 3. Move the C-Inspect Directory to the WoW AddOns Directory.
 4. If the Game Is Currently Running Make Sure To --/reload-- The UI To Update The AddOns.
 
-To Do's
--- Remove Target Frame After Inspect Screen Opens.
--- Fix Inspect Window From Closing If Player Holds Control Key Too Long.
+To Do's:
+1. Remove Target Frame After Inspect Screen Opens.
+2. Fix Inspect Window From Closing If Player Holds Control Key Too Long.
