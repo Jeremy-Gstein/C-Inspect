@@ -1,5 +1,6 @@
 # C-Inspect
 A Simple WoW Addon That Will Inspect Friendly Players Upon Pressing Control + Left Mouse Click.
+Thank You For Using This Addon! If You Experiance Any Issues Useing C-Inspect Feel Free To Open An Issue Or Email Me At shodo@shodo.link
 
 Install Instructions:
 1. Download the latest C-Inspect files @ https://github.com/Jeremy-Gstein/C-Inspect/releases/download/v1.0/C-Inspect.zip
