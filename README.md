@@ -1,6 +1,12 @@
 # C-Inspect
 A Simple WoW Addon That Will Inspect Friendly Players Upon Pressing Control + Left Mouse Click.
 
+Install Instructions:
+1. Download the latest C-Inspect files
+2. Locate your WoW AddOns Folder ( ~/World of Warcraft/_retail_/Interface/AddOns )
+3. Move the C-Inspect Directory to the WoW AddOns Directory.
+4. If the Game Is Currently Running Make Sure To --/reload-- The UI To Update The AddOns.
+
 To Do's
 -- Remove Target Frame After Inspect Screen Opens.
 -- Fix Inspect Window From Closing If Player Holds Control Key Too Long.
