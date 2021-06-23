@@ -11,3 +11,4 @@ Install Instructions:
 To Do's:
 1. Remove Target Frame After Inspect Screen Opens.
 2. Fix Inspect Window From Closing If Player Holds Control Key Too Long.
+3. Query The Gear ID's to Return Stats, Names, Gems Etc...
