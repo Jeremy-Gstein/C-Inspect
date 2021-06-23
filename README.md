@@ -8,7 +8,7 @@ Client Install:
 3. Pess The Curse Forge Download Icon To Begin Automated Install. (See Image Below.)
 
 
-![image](https://user-images.githubusercontent.com/66806528/123146358-c349ad80-d42b-11eb-9dc4-fbf749f8edb2.png)
+      ![image](https://user-images.githubusercontent.com/66806528/123146358-c349ad80-d42b-11eb-9dc4-fbf749f8edb2.png)
 
 
 Manual Install Instructions:
