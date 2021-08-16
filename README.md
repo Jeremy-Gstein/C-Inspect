@@ -12,7 +12,7 @@ Client Install:
 
 
 Manual Install Instructions:
-1. Download the latest C-Inspect files @ https://github.com/Jeremy-Gstein/C-Inspect/releases/download/v1.0/C-Inspect.zip
+1. Download the latest C-Inspect files @ https://github.com/Jeremy-Gstein/C-Inspect/releases
 2. Unzip The C-Inspect Directory From The C-Inspect.zip Archive.
 3. Locate your WoW AddOns Folder ( ~/World of Warcraft/_retail_/Interface/AddOns )
 4. Move the C-Inspect Directory to the WoW AddOns Directory.
