@@ -3,9 +3,9 @@ A Simple WoW Addon That Will Pull Up a Friendly Players Inspect Gear Frame By Pr
 Thank You For Using This Addon! If You Experience Any Issues Using C-Inspect Feel Free To Open An Issue Or Email Me At shodo@pm.me
 
 
-####Update 11/20/2022
+#### *Update: 11/20/2022*
 
-> - Fixed frame closing when control_key is held.
+> - Fixed frame closing when control_key is pressed for to long.
 > - Added new `/rl` command to reload the game easier.
 
 Client Install:
