@@ -1,6 +1,6 @@
 # C-Inspect
 A Simple WoW Addon That Will Pull Up a Friendly Players Inspect Gear Frame By Pressing Control + Left Mouse On The Player.
-Thank You For Using This Addon! If You Experience Any Issues Using C-Inspect Feel Free To Open An Issue Or Email Me At shodo@pm.me
+Thank You For Using This Addon! If You Experience Any Issues Using C-Inspect Feel Free To Open An Issue.
 
 
 #### *Update: 11/20/2022*
