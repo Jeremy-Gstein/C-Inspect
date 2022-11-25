@@ -3,17 +3,17 @@
 -- This includes party/raid frames from within the same zone you're currently in.
 
 -- reload UI when player types ' /rl '
-SLASH_NEWRELOAD1 = /rl
+SLASH_NEWRELOAD1 = "/rl"
 SlashCmdList.NEWRELOAD = ReloadUI
 
 -- Keeps track of last player inspected.
 lastInspectTargetName = "" 
 
 cInspect = function()
-  if(IsControlKeyDown() and CanInspect(mouseover) and not InCombatLockdown())then
-    inspectTargetName = UnitName(target);
+  if(IsControlKeyDown() and CanInspect("mouseover") and not InCombatLockdown())then
+    inspectTargetName = UnitName("target");
     if(inspectTargetName ~= lastInspectTargetName)then
-      InspectUnit(target);
+      InspectUnit("target");
       lastInspectTargetName = inspectTargetName
     end
   end
