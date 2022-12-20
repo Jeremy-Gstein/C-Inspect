@@ -9,9 +9,10 @@ SlashCmdList.NEWRELOAD = ReloadUI
 
 cInspect = function()
   if(IsControlKeyDown() and CanInspect("mouseover") and not InCombatLockdown())then
-    InspectUnit("target");       -- Cannot be mouseover or paperdoll fails to fetch gear details.
+    InspectUnit("target");       -- Cannot be 'mouseover' or paperdoll fails to fetch gear details.    
   end
 end
+
 -- Define an event to pass cInspect too when Event is called. (checking control key change)
 local function OnEvent(self, event, ...)
   cInspect();
@@ -23,4 +24,4 @@ f:RegisterEvent("MODIFIER_STATE_CHANGED")
 f:SetScript("OnEvent", OnEvent)
 
 -- ToDo:
--- Remove need to press left click or target when inspecting a player.
+-- Remove need to press left click and target when inspecting a player.
