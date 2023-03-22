@@ -26,4 +26,4 @@ To Do's:
 > 1. Remove Target Frame After Inspect Screen Opens.
 > 2. Added on 11/20/2022 ~~Fix Inspect Window From Closing If Player Holds Control Key Too Long.~~
 > 3. Remove need to target player. Only use control_key + mouseover 
- 
+> 4. https://github.com/Jeremy-Gstein/C-Inspect/issues/4
