@@ -1,4 +1,4 @@
-## Interface: 110005
+## Interface: 110100
 ## Title: C-Inspect
 ## Notes: A Simple Addon That Will Inspect Players Upon Pressing Control + Left Mouse Click
 ## Author: Shodo
