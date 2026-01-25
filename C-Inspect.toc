@@ -1,11 +1,12 @@
-## Interface: 110207
+## Interface: 110207, 120000, 120001
+## Version: 1.0.0
 ## Title: C-Inspect
-## Notes: A Simple Addon That Will Inspect Players Upon Pressing Control + Left Mouse Click
-## Author: Shodo
-## Version: 1.0
+## Notes: Inspect Players By Pressing/Holding Control + Left Mouse Click
+## Author: Jeremy-Gstein (Shodo)
 ## IconTexture: Interface\AddOns\C-Inspect\icon.blp
 
+## SPDX-License-Identifier: GPL-3.0-or-later
+## X-Website: https://github.com/Jeremy-Gstein/C-Inspect
+## X-Curse-Project-ID: 496884
+
 C-Inspect.lua
-
-
-
