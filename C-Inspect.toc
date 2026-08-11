@@ -1,4 +1,4 @@
-## Interface: 120000, 120001, 120005, 120007
+## Interface: 120000, 120001, 120005, 120007, 120100
 ## Version: 1.0.0
 ## Title: C-Inspect
 ## Notes: Inspect Players By Pressing/Holding Control + Left Mouse Click
